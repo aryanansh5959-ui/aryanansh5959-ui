@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey! 👋 I'm Ansh Aryan
 
-<!--
-**aryanansh5959-ui/aryanansh5959-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student Developer | Vibe Coder
 
-Here are some ideas to get you started:
+I'm a student who enjoys learning about technology and building cool projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Doing
+
+- 💻 Learning programming and development
+- 🤖 Exploring AI and ML
+- 🛠️ Building projects and experimenting with ideas
+- 📚 Learning something new every day
+
+## 🧰 Skills I'm Learning
+
+- Python
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- AI / Machine Learning
+
+## 🎯 Goals
+
+- Build useful projects
+- Improve my coding skills
+- Contribute to open source
+- Keep learning and creating
+
+---
+
+⭐ Thanks for visiting my profile!
